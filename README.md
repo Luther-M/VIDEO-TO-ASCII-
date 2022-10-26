@@ -3,11 +3,11 @@
 The code was build on Python 3.9, so i assumme it should work for same version of Python or close to it.
 
 Package you will need to run it:
-- cv2		
+- [cv2](https://pypi.org/project/opencv-python/)
 ```
 pip install opencv-python
 ```
-- numpy 	
+- [numpy](https://pypi.org/project/numpy/) 	
 ```
 pip install numpy
 ```
