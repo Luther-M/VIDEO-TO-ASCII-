@@ -20,8 +20,8 @@ C:\Users\AMD\Bad_Apple\example
 ```
 ![pic1](https://user-images.githubusercontent.com/76024496/197989555-54d67b4f-62eb-49d3-b9aa-ad04a03a88b4.png)
 
-At line 17 in the test_video_v1, change ''lagtrain.mp4' to the video you want to play in terminal, in this case, 
-'Bad Apple.p4'.
+At line 17 in the test_video_v1.py, change 'lagtrain.mp4' to the video you want to play in terminal, in this case, 
+'Bad Apple.mp4'.
 
 ```python
 cap = cv2.VideoCapture("lagtrain.mp4")  
