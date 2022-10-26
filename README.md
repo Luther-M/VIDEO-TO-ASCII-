@@ -18,6 +18,10 @@ C:\Users\AMD\Bad_Apple\example
 ```
 ![pic1](https://user-images.githubusercontent.com/76024496/197989555-54d67b4f-62eb-49d3-b9aa-ad04a03a88b4.png)
 
+At line 17 in the test_video_v1, change ''lagtrain.mp4' to the video you want to play in terminal, in this case, 
+'Bad Apple.p4'.
+
+
 Open terminal with the directory of the video and type "python test_video_v1.py".
 ```
 C:\Users\AMD\Bad_Apple\example\python test_video_v1.py
