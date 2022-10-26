@@ -1,9 +1,7 @@
 import cv2 
 from cv2 import cvtColor,resize
 import numpy as np
-import os
 
-clear = lambda: os.system('cls')
 ascii_characters_by_surface = "`^\",:;Il!i~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
 
 def convert_ascii_index(value):
@@ -16,7 +14,7 @@ def show_ascii(value):
 
 
 def main():
-    cap = cv2.VideoCapture("lagtrain.mp4")
+    cap = cv2.VideoCapture("lagtrain.mp4")               # Change lagtrain.mp4 to another video with .mp4 at end
 
     if(cap.isOpened() ==False):
         print("Error opening video stream or file")
