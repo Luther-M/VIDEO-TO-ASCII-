@@ -16,6 +16,10 @@ To run it, the code must be in the same directory (same folder).
 ```
 C:\Users\AMD\Bad_Apple\example
 ```
-Open terminal with the directory of the video and
-type "python test_video_v1.py" and it should run perfectly fine. However some tinkering is needed on the terminal to ensure 
-it run smoothly. 
+Open terminal with the directory of the video andtype "python test_video_v1.py".
+```
+C:\Users\AMD\Bad_Apple\example\python test_video_v1.py
+```
+Hold and behold it should run assuming that the requiments are filled.
+
+However some tinkering is needed on the terminal to ensure it run smoothly. 
