@@ -21,7 +21,13 @@ C:\Users\AMD\Bad_Apple\example
 At line 17 in the test_video_v1, change ''lagtrain.mp4' to the video you want to play in terminal, in this case, 
 'Bad Apple.p4'.
 
-
+```
+cap = cv2.VideoCapture("lagtrain.mp4")  
+```
+to 
+```
+cap = cv2.VideoCapture("Bad_Apple.mp4")  
+```
 Open terminal with the directory of the video and type "python test_video_v1.py".
 ```
 C:\Users\AMD\Bad_Apple\example\python test_video_v1.py
