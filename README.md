@@ -12,6 +12,10 @@ pip install opencv-python
 pip install numpy
 ```
 
-To run it, the code must be in the same directory (same folder). Open terminal with the directory of the video and
+To run it, the code must be in the same directory (same folder). 
+```
+C:\Users\AMD\Bad_Apple\example
+```
+Open terminal with the directory of the video and
 type "python test_video_v1.py" and it should run perfectly fine. However some tinkering is needed on the terminal to ensure 
 it run smoothly. 
