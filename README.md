@@ -12,6 +12,8 @@ pip install opencv-python
 pip install numpy
 ```
 
+##Running it
+
 To run it, the code and the video must be in the same directory (same folder). 
 ```
 C:\Users\AMD\Bad_Apple\example
